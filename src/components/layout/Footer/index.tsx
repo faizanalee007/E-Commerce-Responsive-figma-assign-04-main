@@ -18,7 +18,7 @@ const socialsData: SocialNetworks[] = [
   {
     id: 2,
     icon: <FaFacebookF />,
-    url: "https://facebook.com",
+    url: "https://www.facebook.com/faizaan.alee.9",
   },
   {
     id: 3,
