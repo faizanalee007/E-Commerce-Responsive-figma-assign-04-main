@@ -185,7 +185,6 @@ export const reviewsData: Review[] = [
   },
   
   
-  
 ]
 
 export default function Home() {
